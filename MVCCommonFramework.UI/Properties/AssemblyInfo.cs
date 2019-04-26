@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的常规信息是通过以下项进行控制的
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("MVCCommonFramework.UI.Tests")]
+[assembly: AssemblyTitle("MVCCommonFramework.UI")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MVCCommonFramework.UI.Tests")]
+[assembly: AssemblyProduct("MVCCommonFramework.UI")]
 [assembly: AssemblyCopyright("版权所有(C)  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于 typelib 的 ID
-[assembly: Guid("848c23fe-9ede-476c-8fc0-6e344755e622")]
+[assembly: Guid("aa3cf219-cadc-4027-9d4a-de6a90b5b739")]
 
 // 程序集的版本信息由下列四个值组成:
 //

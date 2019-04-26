@@ -92,9 +92,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MVCCommonFramework\MVCCommonFramework.csproj">
-      <Project>{0F086C2C-DE42-4D55-844A-DC04A920D691}</Project>
-      <Name>MVCCommonFramework</Name>
+    <ProjectReference Include="..\MVCCommonFramework.UI\MVCCommonFramework.UI.csproj">
+      <Project>{0f086c2c-de42-4d55-844a-dc04a920d691}</Project>
+      <Name>MVCCommonFramework.UI</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
